@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\ExcitebikeTextEditor\ExcitebikeTextEditor\bin\x86\Debug\ExcitebikeTextEditor.exe.config
+C:\Users\Administrator\source\repos\ExcitebikeTextEditor\ExcitebikeTextEditor\bin\x86\Debug\ExcitebikeTextEditor.exe
+C:\Users\Administrator\source\repos\ExcitebikeTextEditor\ExcitebikeTextEditor\bin\x86\Debug\ExcitebikeTextEditor.pdb
+C:\Users\Administrator\source\repos\ExcitebikeTextEditor\ExcitebikeTextEditor\obj\x86\Debug\ExcitebikeTextEditor.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ExcitebikeTextEditor\ExcitebikeTextEditor\obj\x86\Debug\ExcitebikeTextEditor.AboutBox1.resources
+C:\Users\Administrator\source\repos\ExcitebikeTextEditor\ExcitebikeTextEditor\obj\x86\Debug\ExcitebikeTextEditor.Form1.resources
+C:\Users\Administrator\source\repos\ExcitebikeTextEditor\ExcitebikeTextEditor\obj\x86\Debug\ExcitebikeTextEditor.Properties.Resources.resources
+C:\Users\Administrator\source\repos\ExcitebikeTextEditor\ExcitebikeTextEditor\obj\x86\Debug\ExcitebikeTextEditor.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ExcitebikeTextEditor\ExcitebikeTextEditor\obj\x86\Debug\ExcitebikeTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ExcitebikeTextEditor\ExcitebikeTextEditor\obj\x86\Debug\ExcitebikeTextEditor.exe
+C:\Users\Administrator\source\repos\ExcitebikeTextEditor\ExcitebikeTextEditor\obj\x86\Debug\ExcitebikeTextEditor.pdb

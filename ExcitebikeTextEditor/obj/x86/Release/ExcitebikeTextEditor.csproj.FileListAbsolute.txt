@@ -8,3 +8,14 @@ f:\users\sleepy\documents\visual studio 2013\Projects\ExcitebikeTextEditor\Excit
 f:\users\sleepy\documents\visual studio 2013\Projects\ExcitebikeTextEditor\ExcitebikeTextEditor\obj\x86\Release\ExcitebikeTextEditor.csproj.GenerateResource.Cache
 f:\users\sleepy\documents\visual studio 2013\Projects\ExcitebikeTextEditor\ExcitebikeTextEditor\obj\x86\Release\ExcitebikeTextEditor.exe
 f:\users\sleepy\documents\visual studio 2013\Projects\ExcitebikeTextEditor\ExcitebikeTextEditor\obj\x86\Release\ExcitebikeTextEditor.pdb
+C:\Users\Administrator\source\repos\ExcitebikeTextEditor\ExcitebikeTextEditor\bin\x86\Release\ExcitebikeTextEditor.exe.config
+C:\Users\Administrator\source\repos\ExcitebikeTextEditor\ExcitebikeTextEditor\bin\x86\Release\ExcitebikeTextEditor.exe
+C:\Users\Administrator\source\repos\ExcitebikeTextEditor\ExcitebikeTextEditor\bin\x86\Release\ExcitebikeTextEditor.pdb
+C:\Users\Administrator\source\repos\ExcitebikeTextEditor\ExcitebikeTextEditor\obj\x86\Release\ExcitebikeTextEditor.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ExcitebikeTextEditor\ExcitebikeTextEditor\obj\x86\Release\ExcitebikeTextEditor.AboutBox1.resources
+C:\Users\Administrator\source\repos\ExcitebikeTextEditor\ExcitebikeTextEditor\obj\x86\Release\ExcitebikeTextEditor.Form1.resources
+C:\Users\Administrator\source\repos\ExcitebikeTextEditor\ExcitebikeTextEditor\obj\x86\Release\ExcitebikeTextEditor.Properties.Resources.resources
+C:\Users\Administrator\source\repos\ExcitebikeTextEditor\ExcitebikeTextEditor\obj\x86\Release\ExcitebikeTextEditor.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ExcitebikeTextEditor\ExcitebikeTextEditor\obj\x86\Release\ExcitebikeTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ExcitebikeTextEditor\ExcitebikeTextEditor\obj\x86\Release\ExcitebikeTextEditor.exe
+C:\Users\Administrator\source\repos\ExcitebikeTextEditor\ExcitebikeTextEditor\obj\x86\Release\ExcitebikeTextEditor.pdb
